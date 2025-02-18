@@ -6,6 +6,7 @@ Amyotrophic Lateral Sclerosis (ALS) is a neurodegenerative disease that deterior
 
 ## Data
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6016933/
++ Proteomic dataset (cited)
 
 ## Model Weights
 https://drive.google.com/file/d/1W5gIOmla4YBwRnLweEIjbjHxFMRz9otY/view?usp=sharing
